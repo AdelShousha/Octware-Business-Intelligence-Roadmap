@@ -16,10 +16,10 @@ This repository aims to help individuals enhance their business intelligence ski
 ### Week 4:
 [Introduction to Relational Databases in SQL](https://app.datacamp.com/learn/courses/introduction-to-relational-databases-in-sql) <br> 
 
-### Week 5:
+### Week 5 (Optional):
 [Data Manipulation in SQL](https://app.datacamp.com/learn/courses/data-manipulation-in-sql) <br> 
 
-### Week 6:
+### Week 6 (Optional):
 [PostgreSQL Summary Stats and Window Functions](https://app.datacamp.com/learn/courses/postgresql-summary-stats-and-window-functions) <br> 
 
 ___
